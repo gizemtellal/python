@@ -1,2 +1,2 @@
-# python 
+# PYTHON 
 ## Yapay Zeka
